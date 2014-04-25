@@ -1,0 +1,1 @@
+Run ( "C:\adb\adb.exe" )
